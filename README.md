@@ -38,5 +38,9 @@ struct Urls {
 
 }
 ```
+# Where can I find my apikey
+Log into our [licensing mager](https://aotomot.com/login/) with your registered username and password. You can find the workspace name and apik under your project.
+![apiKey](https://user-images.githubusercontent.com/54090983/63316567-ac7b3100-c352-11e9-8038-ff91c287be7f.png)
+
 # API documentation
 You can checkout our api documentation and try them [here](https://docs.aotomot.com/reference/on-boarding-overview) 
