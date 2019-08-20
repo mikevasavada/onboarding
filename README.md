@@ -24,7 +24,7 @@ The Onboarding module provides you with all the features you need to create that
 | buttonColor        | String  |
 | buttonTextColor    | String  |
 
-#How to try
+# How to try
 To use this sample code you should have already registered with AOtomot platform. Once you register you will have your worksmapce name and apik key available, place then in Url.swift file in "workspaceName" and "apiKey" and run your code.
 ```
 struct Urls {
